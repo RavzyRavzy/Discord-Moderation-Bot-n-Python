@@ -29,4 +29,4 @@ Python ile yazılmış bot dosyalarını şu linkten indirebilirsiniz:
 ## Not
 Botu açmak için bilgisayarınızın sürekli açık olması gerekiyor. Mobil veya cloud sunucu kullanabilirsiniz.
 
-Sorun Yaşarsanız : https://discord.gg/idquery
+Sorun Yaşarsanız : https://discord.gg/idquery'den ravzyravzy'ye ulaşabilirsiniz.
